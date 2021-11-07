@@ -1,0 +1,13 @@
+
+Microsoft Azure experience with PaaS services such as functions, Logic Apps, WebApps; Storage, Service Bus, Event Grid, Networking and Azure Security Center
+Data storage technologies such as Azure Cosmos DB, Azure SQL and Azure DataLake services.
+Technical/Hands on experience with at least one of the following DevOps tools: Azure DevOPs,  Veracode, SonarQube / SonarCloud, Service Now Change Management
+Technical / Hands on experience with Infrastructure as Code tools such as ARM templates or bicep
+Experience building YAML CI/CD pipelines
+
+Microsoft Azure experience with PaaS services such as functions, Logic Apps, WebApps; Storage, Service Bus, Event Grid, Networking and Azure Security Center
+Data storage technologies such as Azure Cosmos DB, Azure SQL and Azure DataLake services.
+Technical/Hands on experience with at least one of the following DevOps tools: Azure DevOPs,  Veracode, SonarQube / SonarCloud, Service Now Change Management
+Technical / Hands on experience with Infrastructure as Code tools such as ARM templates or bicep
+Experience building YAML CI/CD pipelines
+
